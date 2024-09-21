@@ -3,7 +3,6 @@
   - **Frontend**:HTML, CSS, Javascript, Bootstrap, React.
   - **Backend**:Core Java, JDBC, Hibernate, Spring, Spring MVC, Spring Boot.
 - 👀 I’m passionate about building full-stack applications and improving my skills in modern technologies.
-- 💞️ I’m looking to collaborat
 - 📫 How to reach me :pratikshanangare04@gmail.com
 - 😄 Pronouns: She/ Her
 
